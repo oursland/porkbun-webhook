@@ -1,4 +1,4 @@
-module github.com/mdonoughe/porkbun-webhook
+module github.com/oursland/porkbun-webhook
 
 go 1.19
 

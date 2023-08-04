@@ -13,7 +13,7 @@ certManager:
   serviceAccountName: cert-manager
 
 image:
-  repository: ghcr.io/mdonoughe/porkbun-webhook
+  repository: ghcr.io/oursland/porkbun-webhook
   tag: v0.2.0
   pullPolicy: IfNotPresent
 

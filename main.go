@@ -6,7 +6,7 @@ import (
 	"github.com/cert-manager/cert-manager/pkg/acme/webhook/cmd"
 	"k8s.io/klog"
 
-	"github.com/mdonoughe/porkbun-webhook/porkbun"
+	"github.com/oursland/porkbun-webhook/porkbun"
 )
 
 var GroupName = os.Getenv("GROUP_NAME")
