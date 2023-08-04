@@ -1,4 +1,4 @@
-module github.com/mdonoughe/cert-manager-porkbun
+module github.com/mdonoughe/porkbun-webhook
 
 go 1.19
 

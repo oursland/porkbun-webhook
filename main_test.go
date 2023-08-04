@@ -6,7 +6,7 @@ import (
 
 	"github.com/cert-manager/cert-manager/test/acme/dns"
 
-	"github.com/mdonoughe/cert-manager-porkbun/porkbun"
+	"github.com/mdonoughe/porkbun-webhook/porkbun"
 )
 
 var (
